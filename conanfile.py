@@ -3,7 +3,7 @@ from conans import ConanFile, CMake, tools
 
 class XsimdConan(ConanFile):
     name = "xsimd"
-    version = "7.1.3"
+    version = "7.2.3"
     license = "BSD 3-Clause"
     url = "https://github.com/QuantStack/xtl"
     description = "Modern, portable C++ wrappers for SIMD intrinsics and parallelized, optimized math implementations" \
